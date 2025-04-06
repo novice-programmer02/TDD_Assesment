@@ -1,5 +1,5 @@
 import java.util.*;
-
+// Please edit the file name of class name accordingly before run.
 public class Main {
     public static void main(String[]  args) {
         String numbers = "1,\n10-1";
